@@ -213,4 +213,4 @@ Alfa is available as a **full free version** with all features unlocked and cont
 Ready to enhance your Kodi experience? **Download Alfa free today** and start enjoying your favorite movies and series like never before!
 
 ---
-**Last updated:** 2026-11-05 15:54:42 UTC
+**Last updated:** 2026-11-05 21:41:00 UTC
